@@ -1,0 +1,32 @@
+{
+    "Tic": {
+        "RACE": "tamia",
+        "TYPE": "rodent",
+        "STATE": "asleep",
+        "PLACE": "nest"
+    },
+    "Tac": {
+        "RACE": "tamia",
+        "TYPE": "rodent",
+        "STATE": "hungry",
+        "PLACE": "litter"
+    },
+    "Patrick": {
+        "RACE": "hamster",
+        "TYPE": "rodent",
+        "STATE": "hungry",
+        "PLACE": "litter"
+    },
+    "Totoro": {
+        "RACE": "ili pika",
+        "TYPE": "rodent",
+        "STATE": "hungry",
+        "PLACE": "litter"
+    },
+    "Pocahontas": {
+        "RACE": "opossum",
+        "TYPE": "marsupial",
+        "STATE": "hungry",
+        "PLACE": "litter"
+    }
+}

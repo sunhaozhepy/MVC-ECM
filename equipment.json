@@ -1,0 +1,14 @@
+{
+    "litter": {
+        "AVAILABILITY": "vacant"
+    },
+    "manger": {
+        "AVAILABILITY": "vacant"
+    },
+    "roller": {
+        "AVAILABILITY": "vacant"
+    },
+    "nest": {
+        "AVAILABILITY": "occupied"
+    }
+}
